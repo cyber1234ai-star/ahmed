@@ -23,12 +23,7 @@ npm run dev
 - الموقع: `http://localhost:3000`
 - الداشبورد: `http://localhost:3000/admin`
 
-بيانات الدخول الافتراضية للـ seed:
-
-- Email: `admin@luxe.design`
-- Password: `ChangeMe123!`
-
-بدون `DATABASE_URL` سيعمل المشروع على fallback محلي داخل `data/local-db.json` للتجربة فقط.
+بيانات الدخول الافتراضية للـ fallback محلي داخل `data/local-db.json` للتجربة فقط.
 
 ## تشغيل PostgreSQL / Supabase
 
